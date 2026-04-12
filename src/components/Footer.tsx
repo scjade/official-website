@@ -30,12 +30,11 @@ export function Footer() {
                     {/* Kolom Tautan */}
                     <div>
                         <h4 className="text-white font-semibold mb-6 tracking-wider text-sm uppercase">
-                            Infrastructure
+                            Resources
                         </h4>
                         <ul className="space-y-4 text-sm text-scalejade-100/70">
-                            <li><Link href="#" className="hover:text-white transition-colors">System Status</Link></li>
-                            <li><Link href="#" className="hover:text-white transition-colors">Security Architecture</Link></li>
-                            <li><Link href="#" className="hover:text-white transition-colors">Global Compliance</Link></li>
+                            <li><Link href="#" className="hover:text-white transition-colors">Blog</Link></li>
+                            <li><Link href="#" className="hover:text-white transition-colors">Research</Link></li>
                         </ul>
                     </div>
 
