@@ -1,0 +1,82 @@
+{
+    "Hero": {
+        "badge": "Infrastruktur Global & Keandalan Sistemik",
+        "title": "Merancang Kecerdasan untuk Infrastruktur Global.",
+        "subtitle": "Mengimplementasikan solusi AI, Blockchain, dan Infrastruktur berkeamanan tinggi untuk regulator keuangan dan pemimpin industri di seluruh dunia.",
+        "cta_primary": "Jelajahi Arsitektur",
+        "cta_secondary": "Hubungi Teknisi"
+    },
+    "Services": {
+        "ai_title": "Kecerdasan Otonom & Sistem Prediktif",
+        "blockchain_title": "Teknologi Buku Besar Terdistribusi & Keamanan Imutabel",
+        "infra_title": "Cloud Kritis-Misi & Kedaulatan Digital"
+    },
+    "Sectors": {
+        "finance": "Pasar Teregulasi & Perbankan Sentral",
+        "industrial": "Pertambangan, Energi, dan Rantai Pasok Global",
+        "healthcare": "Sistem Data Medis Berkeamanan Tinggi"
+    },
+    "ServiceDetails": {
+        "header_badge": "Kapabilitas Teknis",
+        "header_title": "Arsitektur Tingkat Perusahaan.",
+        "header_sub": "Kami merancang sistem berkeamanan tinggi yang dirancang untuk beroperasi tanpa cela di lingkungan kritis-misi dengan tingkat kepercayaan nol.",
+        "ai_desc": "Menerapkan algoritma prediktif dan sistem otonom yang memproses data sistemik secara aman, mengoptimalkan kinerja tanpa mengorbankan kedaulatan data.",
+        "blockchain_desc": "Mengimplementasikan buku besar terdistribusi berbasis konsensus untuk jejak audit imutabel, ideal untuk perbankan sentral dan manajemen aset teregulasi.",
+        "infra_desc": "Merancang lingkungan cloud multi-wilayah yang tangguh untuk menjamin uptime dan kepatuhan ketat terhadap hukum lokalisasi data global."
+    },
+    "SectorDetails": {
+        "header_badge": "Aplikasi Global",
+        "header_title": "Dirancang untuk Pasar Teregulasi.",
+        "header_sub": "Infrastruktur kami menggerakkan sektor-sektor paling kritis dalam ekonomi global, di mana kegagalan bukanlah sebuah pilihan.",
+        "finance_desc": "Menyediakan infrastruktur penyelesaian inti, kerangka kerja CBDC, dan mitigasi risiko sistemik untuk institusi keuangan Tier-1.",
+        "industrial_desc": "Mengamankan rantai pasok skala masif dan jaringan energi dengan pelacakan imutabel dan AI pemeliharaan prediktif.",
+        "healthcare_desc": "Melindungi data kesehatan berdaulat dengan arsitektur zero-knowledge dan protokol privasi berkeamanan tinggi."
+    },
+    "TrustSection": {
+        "badge": "Ekosistem Global",
+        "title_main": "Infrastruktur Berdaulat. ",
+        "title_highlight": "Eksekusi Universal.",
+        "tag_1": "Institusi Keuangan Tier-1",
+        "tag_2": "Sindikat Energi Global",
+        "tag_3": "Pasar Teregulasi",
+        "tag_4": "Entitas Pemerintah"
+    },
+    "About": {
+        "intro_badge": "Pengenalan Korporat",
+        "intro_title": "Standar Keandalan Sistemik.",
+        "intro_text": "Scalejade merancang mesin penggerak senyap yang menopang pasar teregulasi dan infrastruktur global. Kami tidak sekadar membangun perangkat lunak; kami merekayasa kepercayaan untuk lingkungan berisiko tinggi.",
+        "who_we_are_title": "Siapa Kami",
+        "who_we_are_text": "Kami adalah konsorsium global yang terdiri dari insinyur sistem, arsitek kriptografis, dan spesialis infrastruktur. Beroperasi secara eksklusif di persimpangan antara keamanan tingkat tinggi dan skalabilitas absolut, tim kami dikerahkan di sektor-sektor paling menuntut di dunia untuk memecahkan tantangan kritis yang kompleks.",
+        "mission_title": "Misi Kami",
+        "mission_text": "Untuk mengimplementasikan infrastruktur berdaulat yang menjamin kontinuitas operasional, kedaulatan digital, dan kepercayaan algoritmik bagi entitas yang menggerakkan ekonomi global.",
+        "values_title": "Nilai Inti",
+        "value_1_title": "Ketahanan Absolut",
+        "value_1_desc": "Kami merekayasa sistem yang dirancang untuk bertahan dalam skenario terburuk absolut, memastikan kontinuitas operasional tanpa waktu henti (zero-downtime).",
+        "value_2_title": "Kepastian Kriptografis",
+        "value_2_desc": "Keamanan bukanlah fitur tambahan; melainkan fondasi utama. Kami beroperasi berdasarkan bukti matematis, bukan sekadar asumsi kepercayaan.",
+        "value_3_title": "Kedaulatan Digital",
+        "value_3_desc": "Kami menanamkan lokalisasi data dan kepatuhan langsung ke dalam lapisan jaringan kami untuk melindungi kerangka regulasi regional.",
+        "value_4_title": "Skala Sistemik",
+        "value_4_desc": "Setiap arsitektur yang kami terapkan mampu menangani kecepatan transaksi dari institusi keuangan Tier-1."
+    },
+    "Portfolio": {
+        "badge": "Eksekusi Terbukti",
+        "title": "Studi Kasus Sistemik.",
+        "subtitle": "Rekam jejak dalam mengimplementasikan infrastruktur kritis-misi. Jelajahi bagaimana kami memecahkan tantangan arsitektur paling kompleks untuk pasar teregulasi di seluruh dunia.",
+        "view_live": "Lihat Spesifikasi Arsitektur",
+        "metrics_header": "Dampak Sistemik",
+        "tech_header": "Infrastruktur Inti"
+    },
+    "Demo": {
+        "badge": "Portal Aman",
+        "title": "Inisiasi Penerapan.",
+        "subtitle": "Berinteraksi dengan arsitek rekayasa kami untuk mendiskusikan kebutuhan sistemik Anda, meminta audit teknis, atau menjadwalkan pengarahan yang aman.",
+        "form_title": "Inkuiri Langsung",
+        "form_org": "Nama Organisasi",
+        "form_email": "Email Korporat",
+        "form_req": "Kebutuhan Infrastruktur",
+        "form_submit": "Kirim Permintaan",
+        "cal_title": "Jadwalkan Pengarahan",
+        "cal_desc": "Pilih waktu yang tersedia untuk berbicara langsung dengan Arsitek Sistem Utama."
+    }
+}

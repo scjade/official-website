@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sbmitb",
+    "name": "SBM ITB",
+    "logo_url": "/logos/sbmitb.svg"
+  },
+  {
+    "id": "bni",
+    "name": "BNI",
+    "logo_url": "/logos/bni.svg"
+  },
+  {
+    "id": "finnova",
+    "name": "Finnova",
+    "logo_url": "/logos/finnova.svg"
+  },
+  {
+    "id": "smiths",
+    "name": "SMITHS",
+    "logo_url": "/logos/smiths.svg"
+  },
+  {
+    "id": "solaris",
+    "name": "Solaris",
+    "logo_url": "/logos/solaris.svg"
+  },
+  {
+    "id": "smu",
+    "name": "SMU",
+    "logo_url": "/logos/smu.svg"
+  }
+]

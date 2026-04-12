@@ -1,0 +1,82 @@
+{
+    "Hero": {
+        "badge": "Global Infrastructure & Systemic Reliability",
+        "title": "Architecting Intelligence for Global Infrastructure.",
+        "subtitle": "Deploying high-assurance AI, Blockchain, and Infrastructure solutions for financial regulators and industry leaders worldwide.",
+        "cta_primary": "Explore Architecture",
+        "cta_secondary": "Contact Engineering"
+    },
+    "Services": {
+        "ai_title": "Autonomous Intelligence & Predictive Systems",
+        "blockchain_title": "Distributed Ledger Technology & Immutable Security",
+        "infra_title": "Mission-Critical Cloud & Digital Sovereignty"
+    },
+    "Sectors": {
+        "finance": "Regulated Markets & Central Banking",
+        "industrial": "Mining, Energy, and Global Supply Chains",
+        "healthcare": "High-Assurance Medical Data Systems"
+    },
+    "ServiceDetails": {
+        "header_badge": "Technical Capabilities",
+        "header_title": "Enterprise-Grade Architecture.",
+        "header_sub": "We engineer high-assurance systems designed to operate flawlessly in zero-trust, mission-critical environments.",
+        "ai_desc": "Deploying predictive algorithms and autonomous systems that process systemic data securely, optimizing performance without compromising data sovereignty.",
+        "blockchain_desc": "Implementing consensus-driven distributed ledgers for immutable audit trails, perfect for central banking and regulated asset management.",
+        "infra_desc": "Architecting resilient, multi-region cloud environments that guarantee uptime and strict compliance with global data localization laws."
+    },
+    "SectorDetails": {
+        "header_badge": "Global Application",
+        "header_title": "Engineered for Regulated Markets.",
+        "header_sub": "Our infrastructure powers the most critical sectors of the global economy, where failure is not an option.",
+        "finance_desc": "Providing core settlement infrastructure, CBDC frameworks, and systemic risk mitigation for Tier-1 financial institutions.",
+        "industrial_desc": "Securing massive-scale supply chains and energy grids with immutable tracking and predictive maintenance AI.",
+        "healthcare_desc": "Protecting sovereign health data with zero-knowledge architectures and high-assurance privacy protocols."
+    },
+    "TrustSection": {
+        "badge": "Global Ecosystem",
+        "title_main": "Sovereign-Grade Infrastructure. ",
+        "title_highlight": "Universal Execution.",
+        "tag_1": "Tier-1 Financial Institutions",
+        "tag_2": "Global Energy Syndicates",
+        "tag_3": "Regulated Markets",
+        "tag_4": "Government Entities"
+    },
+    "About": {
+        "intro_badge": "Corporate Introduction",
+        "intro_title": "The Standard of Systemic Reliability.",
+        "intro_text": "Scalejade architects the silent engines that power regulated markets and global infrastructure. We do not just build software; we engineer trust for high-stakes environments.",
+        "who_we_are_title": "Who We Are",
+        "who_we_are_text": "We are a global consortium of systems engineers, cryptographic architects, and infrastructure specialists. Operating exclusively at the intersection of high-assurance security and absolute scalability, our teams are deployed across the world's most demanding sectors to solve complex, mission-critical challenges.",
+        "mission_title": "Our Mission",
+        "mission_text": "To deploy sovereign-grade infrastructure that guarantees operational continuity, digital sovereignty, and algorithmic trust for the entities that power the global economy.",
+        "values_title": "Core Values",
+        "value_1_title": "Absolute Resilience",
+        "value_1_desc": "We engineer systems designed to withstand absolute worst-case scenarios, ensuring zero-downtime operational continuity.",
+        "value_2_title": "Cryptographic Certainty",
+        "value_2_desc": "Security is not an overlay; it is the foundation. We operate on mathematical proof, never on assumed trust.",
+        "value_3_title": "Digital Sovereignty",
+        "value_3_desc": "We embed data localization and compliance directly into our network layers to protect regional regulatory frameworks.",
+        "value_4_title": "Systemic Scale",
+        "value_4_desc": "Every architecture we deploy is capable of handling the transaction velocity of Tier-1 financial institutions."
+    },
+    "Portfolio": {
+        "badge": "Proven Execution",
+        "title": "Systemic Case Studies.",
+        "subtitle": "A track record of deploying mission-critical infrastructure. Explore how we solve the most complex architectural challenges for regulated markets worldwide.",
+        "view_live": "View Architecture Specs",
+        "metrics_header": "Systemic Impact",
+        "tech_header": "Core Infrastructure"
+    },
+    "Demo": {
+        "badge": "Secure Portal",
+        "title": "Initiate Deployment.",
+        "subtitle": "Engage with our engineering architects to discuss your systemic requirements, request a technical audit, or schedule a secure briefing.",
+        "form_title": "Direct Inquiry",
+        "form_org": "Organization Name",
+        "form_email": "Corporate Email",
+        "form_req": "Infrastructure Requirements",
+        "form_submit": "Submit Request",
+        "cal_title": "Schedule a Briefing",
+        "cal_desc": "Select an available window to speak directly with a Lead Systems Architect."
+    }
+}
