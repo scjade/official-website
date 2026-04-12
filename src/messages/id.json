@@ -69,14 +69,14 @@
     },
     "Demo": {
         "badge": "Portal Aman",
-        "title": "Inisiasi Penerapan.",
+        "title": "Mulai Penerapan.",
         "subtitle": "Berinteraksi dengan arsitek rekayasa kami untuk mendiskusikan kebutuhan sistemik Anda, meminta audit teknis, atau menjadwalkan pengarahan yang aman.",
-        "form_title": "Inkuiri Langsung",
+        "form_title": "Hubungi Langsung",
         "form_org": "Nama Organisasi",
-        "form_email": "Email Korporat",
-        "form_req": "Kebutuhan Infrastruktur",
+        "form_email": "Email Bisnis/Korporat",
+        "form_req": "Kebutuhan Businis/Korporat",
         "form_submit": "Kirim Permintaan",
-        "cal_title": "Jadwalkan Pengarahan",
+        "cal_title": "Jadwalkan Konsultasi",
         "cal_desc": "Pilih waktu yang tersedia untuk berbicara langsung dengan Arsitek Sistem Utama."
     }
 }

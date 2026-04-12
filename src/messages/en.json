@@ -73,8 +73,8 @@
         "subtitle": "Engage with our engineering architects to discuss your systemic requirements, request a technical audit, or schedule a secure briefing.",
         "form_title": "Direct Inquiry",
         "form_org": "Organization Name",
-        "form_email": "Corporate Email",
-        "form_req": "Infrastructure Requirements",
+        "form_email": "Business Email",
+        "form_req": "Business Requirements",
         "form_submit": "Submit Request",
         "cal_title": "Schedule a Briefing",
         "cal_desc": "Select an available window to speak directly with a Lead Systems Architect."
