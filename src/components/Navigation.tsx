@@ -26,7 +26,7 @@ export function Navigation({ locale }: { locale: string }) {
     const navLinks = [
         { name: 'Services', href: `/${locale}/services` },
         { name: 'Sectors', href: `/${locale}/sectors` },
-        { name: 'Portfolio', href: `/${locale}/portfolio` },
+        // { name: 'Portfolio', href: `/${locale}/portfolio` },
         { name: 'About Us', href: `/${locale}/about` },
     ];
 
